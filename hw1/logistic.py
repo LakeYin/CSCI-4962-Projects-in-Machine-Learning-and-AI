@@ -1,4 +1,3 @@
-import threading
 import tensorflow as tf
 import sys
 import pandas as pd
